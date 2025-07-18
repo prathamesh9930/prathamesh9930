@@ -59,7 +59,7 @@ Major: PCM + Computer Science
 - ☁️ [**AWS Solutions Architecture Job Simulation** – Forage](https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_aws-activity-7221879222816927745-JI0A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0)  
 - 🛡 [**Cybersecurity Simulation** – JPMorgan Chase & Co.](https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_forage-certificate-activity-7221885111804342272-xpda?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0)
 - 🖥 [**Software Engineering Job Simulation** – Goldman Sachs](https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_goldman-sachs-activity-7221878509198065665-VELG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0) 
-- 📊 [**Data Science & Analytics** – HP Life](https://img.shields.io/badge/-HP%20Life%20Post-white?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_hp-life-activity-7223254368844705792-kvrf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0)]
+- 📊 [**Data Science & Analytics** – HP Life](https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_hp-life-activity-7223254368844705792-kvrf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0)
 
 ---
 
