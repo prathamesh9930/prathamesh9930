@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Prathamesh Gaikwad 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Python+%7C+HTML+%7C+CSS;Cloud+%7C+AI+%7C+ML;Computer+Networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=440&lines=Python+%7C+HTML+%7C+CSS;Cloud+%7C+AI+%7C+ML;Computer+Networking" alt="Typing SVG" />
 </p>
 
 ---
