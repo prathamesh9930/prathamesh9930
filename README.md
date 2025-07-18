@@ -56,26 +56,25 @@ Major: PCM + Computer Science
 
 <h2>📚 Certifications</h2>
 
-<h2>
-  🧠 <a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_activity-7310015626146656257-xCXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank" style="text-decoration: none; color: white;">AI: Transformative Learning – TechSaksham, Edunet</a>
-</h2>
+<a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_activity-7310015626146656257-xCXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank">
+  <img src="https://img.shields.io/badge/-AI:%20Transformative%20Learning-white?style=flat&logo=linkedin&logoColor=blue" alt="AI: Transformative Learning">
+</a><br>
 
-<h2>
-  ☁️ <a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_aws-activity-7221879222816927745-JI0A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank" style="text-decoration: none; color: white;">AWS Solutions Architecture Job Simulation – Forage</a>
-</h2>
+<a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_aws-activity-7221879222816927745-JI0A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank">
+  <img src="https://img.shields.io/badge/-AWS%20Job%20Simulation-white?style=flat&logo=amazonaws&logoColor=orange" alt="AWS Solutions Architecture Job Simulation">
+</a><br>
 
-<h2>
-  🛡 <a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_forage-certificate-activity-7221885111804342272-xpda?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank" style="text-decoration: none; color: white;">Cybersecurity Simulation – JPMorgan Chase & Co.</a>
-</h2>
+<a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_forage-certificate-activity-7221885111804342272-xpda?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank">
+  <img src="https://img.shields.io/badge/-Cybersecurity%20Simulation-white?style=flat&logo=jpmorgan&logoColor=blue" alt="Cybersecurity Simulation – JPMorgan Chase & Co.">
+</a><br>
 
-<h2>
-  🖥 <a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_goldman-sachs-activity-7221878509198065665-VELG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank" style="text-decoration: none; color: white;">Software Engineering Simulation – Goldman Sachs</a>
-</h2>
+<a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_goldman-sachs-activity-7221878509198065665-VELG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank">
+  <img src="https://img.shields.io/badge/-Goldman%20Sachs%20Software%20Sim-white?style=flat&logo=goldmansachs&logoColor=darkblue" alt="Software Engineering – Goldman Sachs">
+</a><br>
 
-<h2>
-  📊 <a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_hp-life-activity-7223254368844705792-kvrf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank" style="text-decoration: none; color: white;">Data Science & Analytics – HP Life</a>
-</h2>
-
+<a href="https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_hp-life-activity-7223254368844705792-kvrf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0" target="_blank">
+  <img src="https://img.shields.io/badge/-HP%20Life:%20Data%20Science-white?style=flat&logo=hp&logoColor=blue" alt="Data Science & Analytics – HP Life">
+</a>
 
 ---
 
