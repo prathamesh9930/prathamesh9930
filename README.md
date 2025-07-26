@@ -12,7 +12,7 @@ A driven and passionate tech enthusiast with a strong foundation in **Python dev
 
 ## 💼 Work Experience
 
-### 🧠 AI Intern — Edunet Foundation  
+### 🧠 AI Intern — [Edunet Foundation](https://www.linkedin.com/posts/prathamesh-gaikwad-31317a319_activity-7310015626146656257-xCXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCmGD8BxfiZqsd_kaJMA2PtpuBTFEkbWf0)  
 *Mar 2025*  
 - Built real-world AI-based solutions in a structured program.  
 - Applied ML, LLMs, and data analysis to solve business challenges.  
@@ -22,28 +22,28 @@ A driven and passionate tech enthusiast with a strong foundation in **Python dev
 
 ## 💻 Featured Projects
 
-### 📘 [BookSurfer](https://github.com/prathamesh9930/BookSurfer)
+### 📘 [BookSurfer](https://github.com/Parthivkoli/BookSurfer)
 > 📚 AI-Powered Book Reading & Summarizer App (Next.js + Node.js + Python)  
 - Built smart search and personalized recommendations for open-source books  
 - Clean reader UI with themes, reading streaks & text-to-speech  
 
 ---
 
-### 🔐 [Encryption & Decryption Tool](https://github.com/prathamesh9930/EncryptorApp)
+### 🔐 [Encryption & Decryption Tool](https://github.com/prathamesh9930/Message-Encryption-and-Decryption-Tool)
 > 🔒 GUI App using Python + Tkinter  
 - Secure Base64 encoding & decoding  
 - Password-protected message transformation with intuitive GUI  
 
 ---
 
-### 🌍 [Speech Translation Assistant](https://github.com/prathamesh9930/MultilingualSpeechTranslator)
+### 🌍 [Speech Translation Assistant](https://github.com/prathamesh9930/Speech-Translation-App)
 > 🎤 Real-time multilingual translator using Whisper + gTTS  
 - Listens → Translates → Speaks — all in one GUI  
 - Great for language learning & accessibility  
 
 ---
 
-### 👥 [Employee Management System](https://github.com/prathamesh9930/EmployeeManagementSystem)
+### 👥 [Employee Management System](https://github.com/Parthivkoli/Employee-Management-System)
 > 📋 Tkinter-based CRUD app  
 - Manage employees, store data in Excel  
 - Easy import/export via CSV with pandas  
