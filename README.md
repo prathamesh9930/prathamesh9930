@@ -9,6 +9,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="../Prathamesh%20CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-Open%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
+  </a>
+</div>
+
 <p align="center">
   <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
     <img src="https://raw.githubusercontent.com/prathamesh9930/prathamesh9930/main/assets/portfolio-banner.gif" alt="Portfolio Banner" width="80%"/>
