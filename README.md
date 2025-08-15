@@ -33,27 +33,28 @@ A driven and passionate tech enthusiast with a strong foundation in **Python dev
 
 ## 💻 Featured Projects
 
-### 📘 [BookSurfer](https://github.com/Parthivkoli/BookSurfer)
+
+
+### 📘 [BookSurfer](https://github.com/Parthivkoli/BookSurfer) &nbsp; <a href="https://booksurfer.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
 > 📚 AI-Powered Book Reading & Summarizer App (Next.js + Node.js + Python)  
 
 Built smart search and personalized recommendations for open-source books  
 Clean reader UI with themes, reading streaks & text-to-speech  
-[Live Demo](https://booksurfer.vercel.app/)
-
-
-### 🧪 [CodeLitmus](https://github.com/prathamesh9930/CodeLitmus) &nbsp; <a href="https://codelitmus.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
-> 🧪 Advanced code quality analyzer (Python, JS, Java, C++, more)
-- Analyze code with beautiful metrics, PDF reports, and modern UI
-- Real-time feedback, drag & drop upload, verdict system
-- [Live Demo](https://codelitmus.onrender.com/) | [Screenshots](https://github.com/prathamesh9930/CodeLitmus#%EF%B8%8F-screenshots)
 
 ---
 
-### 📱 [SMS Spam Detection](https://github.com/prathamesh9930/SMS-Spam-detection)
+### 🧪 [CodeLitmus](https://github.com/prathamesh9930/CodeLitmus) &nbsp; <a href="https://codelitmus.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
+> Advanced code quality analyzer (Python, JS, Java, C++, more)
+- Analyze code with beautiful metrics, PDF reports, and modern UI
+- Real-time feedback, drag & drop upload, verdict system
+
+---
+
+### 📱 [SMS Spam Detection](https://github.com/prathamesh9930/SMS-Spam-detection) &nbsp; <a href="https://sms-spam-detection-xgcftybmf5ofpnkrfmamfg.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
 > 🚫 Detects spam SMS using machine learning (Streamlit app)
 - Paste or type a message to instantly check if it's spam or not
 - Simple, fast, and mobile-friendly interface
-- [Live Demo](https://sms-spam-detection-xgcftybmf5ofpnkrfmamfg.streamlit.app/)
+
 
 ---
 
