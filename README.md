@@ -4,9 +4,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=440&lines=Python+%7C+Cloud+%7C+HTML;CSS+%7C+AI+%7C+ML;Computer+Networking" alt="Typing SVG" />
 </p>
-
-<div align="center">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Resume" />
+  </a>
   <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Resume" />
+  </a>
     <img src="https://img.shields.io/badge/🌟%20Visit%20My%20Portfolio-Click%20Here-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
@@ -14,9 +16,6 @@
 <p align="center">
   <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
     <img src="https://raw.githubusercontent.com/prathamesh9930/prathamesh9930/main/assets/portfolio-banner.gif" alt="Portfolio Banner" width="80%"/>
-  </a>
-  <a href="../Prathamesh%20CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Resume" />
   </a>
 </p>
 
