@@ -17,6 +17,12 @@
   <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
     <img src="https://raw.githubusercontent.com/prathamesh9930/prathamesh9930/main/assets/portfolio-banner.gif" alt="Portfolio Banner" width="80%"/>
   </a>
+<<<<<<< HEAD
+=======
+  <a href="Prathamesh CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Resume" />
+  </a>
+>>>>>>> 0cb9e126ec2502357dc516d1b32c180488ca83b3
 </p>
 
 
