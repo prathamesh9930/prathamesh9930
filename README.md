@@ -35,8 +35,25 @@ A driven and passionate tech enthusiast with a strong foundation in **Python dev
 
 ### 📘 [BookSurfer](https://github.com/Parthivkoli/BookSurfer)
 > 📚 AI-Powered Book Reading & Summarizer App (Next.js + Node.js + Python)  
-- Built smart search and personalized recommendations for open-source books  
-- Clean reader UI with themes, reading streaks & text-to-speech  
+
+Built smart search and personalized recommendations for open-source books  
+Clean reader UI with themes, reading streaks & text-to-speech  
+[Live Demo](https://booksurfer.vercel.app/)
+
+
+### 🧪 [CodeLitmus](https://github.com/prathamesh9930/CodeLitmus) &nbsp; <a href="https://codelitmus.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
+> 🧪 Advanced code quality analyzer (Python, JS, Java, C++, more)
+- Analyze code with beautiful metrics, PDF reports, and modern UI
+- Real-time feedback, drag & drop upload, verdict system
+- [Live Demo](https://codelitmus.onrender.com/) | [Screenshots](https://github.com/prathamesh9930/CodeLitmus#%EF%B8%8F-screenshots)
+
+---
+
+### 📱 [SMS Spam Detection](https://github.com/prathamesh9930/SMS-Spam-detection)
+> 🚫 Detects spam SMS using machine learning (Streamlit app)
+- Paste or type a message to instantly check if it's spam or not
+- Simple, fast, and mobile-friendly interface
+- [Live Demo](https://sms-spam-detection-xgcftybmf5ofpnkrfmamfg.streamlit.app/)
 
 ---
 
@@ -45,15 +62,8 @@ A driven and passionate tech enthusiast with a strong foundation in **Python dev
 - Secure Base64 encoding & decoding  
 - Password-protected message transformation with intuitive GUI  
 
----
-
-### 🌍 [Speech Translation Assistant](https://github.com/prathamesh9930/Speech-Translation-App)
-> 🎤 Real-time multilingual translator using Whisper + gTTS  
-- Listens → Translates → Speaks — all in one GUI  
-- Great for language learning & accessibility  
 
 ---
-
 ### 👥 [Employee Management System](https://github.com/Parthivkoli/Employee-Management-System)
 > 📋 Tkinter-based CRUD app  
 - Manage employees, store data in Excel  
