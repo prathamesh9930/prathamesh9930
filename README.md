@@ -1,14 +1,10 @@
 <h1 align="center">Hi there, I'm Prathamesh Gaikwad 👋</h1>
-<div align="center">
-</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&center=true&vCenter=true&width=440&lines=Python+%7C+Cloud+%7C+HTML;CSS+%7C+AI+%7C+ML;Computer+Networking" alt="Typing SVG" />
 </p>
-    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Resume" />
-  </a>
+
+<div align="center">
   <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Resume" />
-  </a>
     <img src="https://img.shields.io/badge/🌟%20Visit%20My%20Portfolio-Click%20Here-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
   </a>
 </div>
@@ -17,12 +13,6 @@
   <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
     <img src="https://raw.githubusercontent.com/prathamesh9930/prathamesh9930/main/assets/portfolio-banner.gif" alt="Portfolio Banner" width="80%"/>
   </a>
-<<<<<<< HEAD
-=======
-  <a href="Prathamesh CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="My Resume" />
-  </a>
->>>>>>> 0cb9e126ec2502357dc516d1b32c180488ca83b3
 </p>
 
 
@@ -43,28 +33,27 @@ A driven and passionate tech enthusiast with a strong foundation in **Python dev
 
 ## 💻 Featured Projects
 
-
-
-### 📘 [BookSurfer](https://github.com/Parthivkoli/BookSurfer) &nbsp; <a href="https://booksurfer.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
+### 📘 [BookSurfer](https://github.com/Parthivkoli/BookSurfer)
 > 📚 AI-Powered Book Reading & Summarizer App (Next.js + Node.js + Python)  
 
 Built smart search and personalized recommendations for open-source books  
 Clean reader UI with themes, reading streaks & text-to-speech  
+[Live Demo](https://booksurfer.vercel.app/)
 
----
 
 ### 🧪 [CodeLitmus](https://github.com/prathamesh9930/CodeLitmus) &nbsp; <a href="https://codelitmus.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
-> Advanced code quality analyzer (Python, JS, Java, C++, more)
+> 🧪 Advanced code quality analyzer (Python, JS, Java, C++, more)
 - Analyze code with beautiful metrics, PDF reports, and modern UI
 - Real-time feedback, drag & drop upload, verdict system
+- [Live Demo](https://codelitmus.onrender.com/) | [Screenshots](https://github.com/prathamesh9930/CodeLitmus#%EF%B8%8F-screenshots)
 
 ---
 
-### 📱 [SMS Spam Detection](https://github.com/prathamesh9930/SMS-Spam-detection) &nbsp; <a href="https://sms-spam-detection-xgcftybmf5ofpnkrfmamfg.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
+### 📱 [SMS Spam Detection](https://github.com/prathamesh9930/SMS-Spam-detection)
 > 🚫 Detects spam SMS using machine learning (Streamlit app)
 - Paste or type a message to instantly check if it's spam or not
 - Simple, fast, and mobile-friendly interface
-
+- [Live Demo](https://sms-spam-detection-xgcftybmf5ofpnkrfmamfg.streamlit.app/)
 
 ---
 
