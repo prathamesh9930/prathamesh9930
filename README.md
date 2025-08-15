@@ -8,9 +8,9 @@
     <img src="https://img.shields.io/badge/🌟%20Visit%20My%20Portfolio-Click%20Here-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
   </a>
 
-  <a href="/prathamesh9930/Prathamesh%20CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-Open%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
-  </a>
+    <a href="https://github.com/prathamesh9930/prathamesh9930/raw/main/Prathamesh%20CV.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄%20View%20Resume-Open%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
+    </a>
 </div>
 
 <p align="center">
