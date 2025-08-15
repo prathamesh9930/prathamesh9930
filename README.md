@@ -7,10 +7,8 @@
   <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌟%20Visit%20My%20Portfolio-Click%20Here-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" />
   </a>
-</div>
 
-<div align="center">
-  <a href="../Prathamesh%20CV.pdf" target="_blank">
+  <a href="/prathamesh9930/Prathamesh%20CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20Resume-Open%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" />
   </a>
 </div>
