@@ -9,11 +9,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://prathamesh-portfolio-09.netlify.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/prathamesh9930/prathamesh9930/main/assets/portfolio-banner.gif" alt="Portfolio Banner" width="80%"/>
-  </a>
-</p>
 
 
 ## 🎯 Career Objective
