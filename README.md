@@ -45,7 +45,7 @@ Clean reader UI with themes, reading streaks & text-to-speech
 
 ---
 
-### 📱 [SMS Spam Detection](https://github.com/prathamesh9930/SMS-Spam-detection) &nbsp; <a href="https://sms-spam-detection-xgcftybmf5ofpnkrfmamfg.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
+### 📱 [SMS Spam Detection](https://github.com/prathamesh9930/SMS-Spam-detection) &nbsp;<a href="https://sms-spam-detection-xgcftybmf5ofpnkrfmamfg.streamlit.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square&logo=render&logoColor=white"/></a>
 > 🚫 Detects spam SMS using machine learning (Streamlit app)
 - Paste or type a message to instantly check if it's spam or not
 - Simple, fast, and mobile-friendly interface
