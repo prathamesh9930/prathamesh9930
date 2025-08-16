@@ -9,7 +9,7 @@
   </a>
 </div>
 
-
+---
 
 ## 🎯 Career Objective
 A driven and passionate tech enthusiast with a strong foundation in **Python development,Cloud Computing,Computer networks**, and **AI/ML**. I love exploring how **AI**, **data**, and **cloud technology** can be combined to solve real-world problems and create meaningful digital experiences.
